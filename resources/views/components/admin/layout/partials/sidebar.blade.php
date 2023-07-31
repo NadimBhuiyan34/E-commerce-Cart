@@ -19,7 +19,7 @@
           <li class="nav-item">
               <a class="nav-link collapsed" href="{{ route('sells.index') }}">
                   <i class="bi bi-person"></i>
-                  <span>Book Sell</span>
+                  <span>Book Selling System</span>
               </a>
           </li><!-- End Profile Page Nav -->
           <li class="nav-item">

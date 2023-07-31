@@ -28,10 +28,10 @@
 
                                     </thead>
                                     <tbody>
-                                        @foreach ($orders as $key => $order)
+                                        @foreach ($orders as $key=>$order)
                                             <tr>
 
-                                                <td>{{ $key }}</td>
+                                                <td>{{ $key+1 }}</td>
                                                 <td>{{ $order->order_code }}</td>
                                                 <td>{{ $order->delivery_type }}</td>
                                                 <td>{{ $order->delivery_type }}</td>

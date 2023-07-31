@@ -77,7 +77,7 @@
                                                  <select class="form-select form-select-lg mb-3"
                                                      aria-label=".form-select-lg example" name="status">
                                                      <option selected>Select status</option>
-                                                     <option value="Pending">Pending</option>
+                                                     <option value="Pendding">Pendding</option>
                                                      <option value="Processing">Processing</option>
                                                      <option value="Shipped">Shipped</option>
                                                      <option value="Delivered">Delivered</option>
